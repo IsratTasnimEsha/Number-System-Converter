@@ -24,14 +24,14 @@ Screenshot illustrating the main program description and its conversion operatio
 ![Screenshot (72)](https://github.com/IsratTasnimEsha/Number-System-Converter/assets/88322977/1df5f530-656e-404a-84c5-230a34fc275f)
 
 ### Invalid Input Example:
-
 Screenshot depicting some examples of invalid input scenario, highlighting how the program handles incorrect input.
-![Screenshot (73)](https://github.com/IsratTasnimEsha/Number-System-Converter/assets/88322977/2cd6374e-d7a3-4da7-a759-b0a20e743e9d)
+
+![Screenshot (74)](https://github.com/IsratTasnimEsha/Number-System-Converter/assets/88322977/10a7cf57-2229-4ed6-b1b7-1cd2c1909b4c)
 
 ### Valid Calculation Example:
 Screenshot showcasing some examples of valid calculation using the program's conversion operations on different number systems.
 
-![Screenshot (74)](https://github.com/IsratTasnimEsha/Number-System-Converter/assets/88322977/10a7cf57-2229-4ed6-b1b7-1cd2c1909b4c)
+![Screenshot (73)](https://github.com/IsratTasnimEsha/Number-System-Converter/assets/88322977/2cd6374e-d7a3-4da7-a759-b0a20e743e9d)
 
 ## Author
 
