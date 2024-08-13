@@ -36,5 +36,4 @@ Screenshot showcasing some examples of valid calculation using the program's con
 ## Author
 
 **Israt Tasnim Esha**  
-*Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+**Year:** 2020
